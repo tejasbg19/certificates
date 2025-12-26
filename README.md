@@ -1,2 +1,3 @@
-# certificates
-This repo hosts all of my Certificates in PDF formates. Please Check the above files.
+# Certificates
+
+This repository contains PDF copies of my academic and industry training certificates for reference.
